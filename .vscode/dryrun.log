@@ -1,0 +1,6 @@
+make.exe --dry-run --keep-going --print-directory
+make: Entering directory 'c:/Users/tolga/make/makefiles'
+make: Leaving directory 'c:/Users/tolga/make/makefiles'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+ 
